@@ -1,2 +1,2 @@
 # decodersSesssions
-practice codes of Decoders sessions
+practice problem solving codes of Decoders sessions
